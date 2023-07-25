@@ -1,8 +1,9 @@
 {
-  "name": "auroraextensions/simpleredirects",
+  "name": "amida-software/simpleredirects",
   "description": "URL redirect management for Magento.",
   "type": "magento2-module",
   "license": "MIT",
+  "version": "0.0.1",
   "authors": [
     {
       "name": "Nickolas Burr",
