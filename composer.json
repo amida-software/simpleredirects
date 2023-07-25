@@ -3,7 +3,7 @@
   "description": "URL redirect management for Magento.",
   "type": "magento2-module",
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "authors": [
     {
       "name": "Nickolas Burr",
@@ -16,9 +16,6 @@
   "require": {
     "php": "^7.2||^8.1",
     "magento/framework": "*",
-    "magento/module-backend": "^100||^101",
-    "magento/module-store": "^100||^101",
-    "magento/module-ui": "^100||^101",
     "auroraextensions/modulecomponents": "^100||^101"
   },
   "autoload": {
